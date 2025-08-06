@@ -1,38 +1,47 @@
-def checkRow(board):
+t = int(input())
+
+for tc in range(1, t+1):
+
+    board = [None] * 9
+    for i in range(9):
+        board[i] = list(map(int, input().split()))
+    
+    count_error = 0
     for i in range(9):
         if len(set(board[i])) == 9:
             continue
         else:
-            return False
-    return True
-
-def checkColumn(board):
-    for i in range(9):
-        sets = set()
-        for j in range(9):
-            sets.add(board[j][i])
-        if len(sets) == 9:
-            continue
-        else:   return False
-    return True
-
-def checkSquare(board):
-    sets = set()
-    for i in range(3):
-        for j in range(3):
-            sets = sets | set(board[i*3][j*3:(j+1)*3]) | set(board[i*3+1][j*3:(j+1)*3]) | set(board[i*3+2][j*3:(j+1)*3])
-            if len(sets) == 9:
-                continue
-            else:   return False
-    return True
-
-t = int(input())
-
-for i in range(t):
-    board = []
-    for _ in range(9):
-        board.append(list(map(int, input().split())))
+            count_error += 1
     
-    if checkRow(board) and checkColumn(board) and checkSquare(board):
-        print(f'#{i+1} 1')
-    else:   print(f'#{i+1} 0')
+    if count_error > 0:
+        print(f'#{tc}', 0)
+        continue
+
+    sets = set()
+    count_error = 0
+    for j in range(9):
+        for i in range(9):
+            sets.add(board[i][j])
+        if len(sets) != 9:
+            count_error += 1
+        sets.clear()
+    
+    if count_error > 0:
+        print(f'#{tc}', 0)
+        continue
+
+    sets = set()
+    count_error = 0
+    for x in range(0, 9, 3):
+        for y in range(0, 9, 3):
+            for i in range(3):
+                for j in range(3):
+                    sets.add(board[x+i][y+j])
+            if len(sets) != 9:
+                count_error += 1
+            sets.clear()
+    
+    if count_error > 0:
+        print(f'#{tc}', 0)
+    else:
+        print(f'#{tc}', 1)
