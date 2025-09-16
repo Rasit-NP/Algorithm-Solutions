@@ -1,13 +1,13 @@
 import copy
 t = int(input())
-
+ 
 for tc in range(1, t+1):
     n = int(input())
-
+ 
     operators = list(map(int, input().split()))
     numbers = list(map(int, input().split()))
     lst = []
-
+ 
     maximum = -float('inf')
     minimum = float('inf')
     def makelist(lst, operators):
@@ -25,7 +25,7 @@ for tc in range(1, t+1):
                 elif lst[i] == '/':
                     nums[i+1] = int(nums[i] / nums[i+1])
             return nums[-1]
-
+ 
         if len(lst) == n-1:
             final = calculate(lst, numbers)
             maximum = max(maximum, final)
@@ -57,7 +57,7 @@ for tc in range(1, t+1):
                         makelist(lst, operators)
                         operators[i] += 1
                         lst.pop()
-    
+     
     makelist(lst, operators)
-
+ 
     print(f'#{tc}', maximum-minimum)
