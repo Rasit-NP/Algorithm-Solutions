@@ -59,18 +59,11 @@ int cal(int i, int j){
     if ((long long)min_local*(j-i+1) > maximum){
         maximum = (long long)min_local*(j-i+1);
     }
-    if (i<min_idx && min_idx<j){
+    if (i < min_idx){
         cal(i, min_idx-1);
+    }
+    if (min_idx < j){
         cal(min_idx+1, j);
-    }
-    else if (i==j){
-        return 0;
-    }
-    else if (i == min_idx){
-        cal(min_idx+1, j);
-    }
-    else if (j == min_idx){
-        cal(i, min_idx-1);
     }
     return 0;
 }
