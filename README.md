@@ -12,3 +12,4 @@
 
 ## Profile
 <a href="https://solved.ac/profile/shjh0815"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shjh0815"></a>
+<a href="https://solved.ac/profile/shjh0815"><img src="https://topsolved.mayonedev.com/api/boj?handle=shjh0815&row=15&base_color=platinum"></a>
