@@ -12,14 +12,12 @@ arith[1] = False
 if n==1:
     print(1)
 else:
-    prime = [2]
     insu = set()
     for i in range(2, check_max + 1):
         if not arith[i]:
             continue
         for k in range(2*i, check_max+1, i):
             arith[k] = False
-        prime.append(i)
         while not m%i:
             insu.add(i)
             m //= i
