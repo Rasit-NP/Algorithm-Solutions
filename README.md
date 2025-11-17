@@ -9,6 +9,7 @@
 - 2025.09.01 Platinum V
 - 2025.10.13 Platinum IV
 - 2025.10.22 스트릭 100일
+- 2025.11.17 500 solved
 
 ## Profile
 <a href="https://solved.ac/profile/shjh0815"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shjh0815"></a>
