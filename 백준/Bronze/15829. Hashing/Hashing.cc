@@ -9,7 +9,7 @@ int main(void) {
 	long long hash = 0;
 	cin >> l;
 	for (; i < l; i++) {
-		static int coef = 1;
+		static long long coef = 1;
 		char letter;
 		cin >> letter;
 		long long num = letter - 'a' + 1;
