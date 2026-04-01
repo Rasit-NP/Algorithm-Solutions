@@ -11,7 +11,7 @@ vector<int> visited;
 queue<int> q;
 vector<pair<llong, llong>> distances;
 
-int gcd(int a, int b){
+int gcd(llong a, llong b){
     if (a < b){
         swap(a, b);
     }
