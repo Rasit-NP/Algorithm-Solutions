@@ -11,7 +11,7 @@ vector<int> visited;
 queue<int> q;
 vector<pair<llong, llong>> distances;
 
-int gcd(llong a, llong b){
+llong gcd(llong a, llong b){
     if (a < b){
         swap(a, b);
     }
@@ -85,6 +85,7 @@ int main(void){
             distances[nx].first += distances[x].first + c * distances[x].second;
             distances[nx].second += distances[x].second;
             distances[nx].first %= MAX;
+            distances[nx].second %= MAX;
             if (visited[nx] > visited[x] + 1){
                 visited[nx] = visited[x] + 1;
                 q.push(nx);
