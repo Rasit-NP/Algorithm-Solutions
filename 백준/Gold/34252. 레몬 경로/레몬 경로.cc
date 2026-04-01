@@ -3,12 +3,13 @@
 # include <queue>
 # include <climits>
 # define MAX 998'244'353
+typedef long long llong;
 using namespace std;
 
-vector<vector<pair<long long, long long>>> edges;
+vector<vector<pair<llong, llong>>> edges;
 vector<int> visited;
 queue<int> q;
-vector<pair<int, int>> distances;
+vector<pair<llong, llong>> distances;
 
 int gcd(int a, int b){
     if (a < b){
@@ -23,10 +24,10 @@ int gcd(int a, int b){
     return b;
 }
 
-long long pow(long long a, int x){
-    long long res = 1;
+llong pow(llong a, int x){
+    llong res = 1;
     a %= MAX;
-    long long bias = a;
+    llong bias = a;
     while(x){
         if (x&1){
             res *= bias;
@@ -41,9 +42,9 @@ long long pow(long long a, int x){
     return res;
 }
 
-long long restruct(pair<int, int>& input){
+llong restruct(pair<llong, llong>& input){
     input.first %= MAX;
-    long long dist = input.first, cnt = input.second;
+    llong dist = input.first, cnt = input.second;
     int g;
     if (dist == 0 || cnt == 0){
         g = 1;
@@ -62,7 +63,7 @@ int main(void){
     cin.tie(NULL);  cout.tie(NULL);
 
     int n, m;   cin >> n >> m;
-    edges.assign(n+1, vector<pair<long long, long long>>(0));
+    edges.assign(n+1, vector<pair<llong, llong>>(0));
     visited.assign(n+1, INT_MAX);
     distances.assign(n+1, {0, 0});
 
