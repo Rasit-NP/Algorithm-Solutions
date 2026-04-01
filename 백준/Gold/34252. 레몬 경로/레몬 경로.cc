@@ -43,9 +43,8 @@ llong pow(llong a, int x){
 }
 
 llong restruct(pair<llong, llong>& input){
-    input.first %= MAX;
     llong dist = input.first, cnt = input.second;
-    int g;
+    llong g;
     if (dist == 0 || cnt == 0){
         g = 1;
     }
@@ -74,7 +73,7 @@ int main(void){
     }
 
     q.push(1);
-    distances[1] = {0, 1};
+    distances[1] = {0L, 1L};
     visited[1] = 0;
 
     while (q.size()){
@@ -85,6 +84,7 @@ int main(void){
             }
             distances[nx].first += (distances[x].first + c) * distances[x].second;
             distances[nx].second += distances[x].second;
+            distances[nx].first %= MAX;
             if (visited[nx] > visited[x] + 1){
                 visited[nx] = visited[x] + 1;
                 q.push(nx);
