@@ -43,7 +43,7 @@ long long pow(long long a, int x){
 
 long long restruct(pair<int, int>& input){
     input.first %= MAX;
-    auto [dist, cnt] = input;
+    long long dist = input.first, cnt = input.second;
     int g;
     if (dist == 0 || cnt == 0){
         g = 1;
