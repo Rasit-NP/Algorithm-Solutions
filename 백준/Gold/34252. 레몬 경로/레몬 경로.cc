@@ -82,7 +82,7 @@ int main(void){
             if (visited[x] + 1 > visited[nx]){
                 continue;
             }
-            distances[nx].first += (distances[x].first + c) * distances[x].second;
+            distances[nx].first += distances[x].first + c * distances[x].second;
             distances[nx].second += distances[x].second;
             distances[nx].first %= MAX;
             if (visited[nx] > visited[x] + 1){
