@@ -22,16 +22,16 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0001-two-sum/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0001-two-sum/) |  Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0009-palindrome-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/0009-palindrome-number) |
+| [0009-palindrome-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0009-palindrome-number) |  Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
