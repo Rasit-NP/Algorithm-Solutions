@@ -1,0 +1,1 @@
+# include <iostream>using namespace std; int main(void){	ios::sync_with_stdio(false);	cin.tie(NULL);	cout.tie(NULL);		int w;	cin >> w;	if (w<4){		cout << "NO";		return 0;	}	if ((w-2)&1){		cout << "NO";	}	else {		cout << "YES";	}}
