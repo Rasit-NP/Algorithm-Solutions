@@ -1,0 +1,17 @@
+# include <iostream>
+using namespace std;
+
+int main(void){
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);  cout.tie(NULL);
+
+    int a, b, c;    cin >> a >> b >> c;
+    int d;  cin >> d;
+
+    c += d;
+    b += c/60;  c %= 60;
+    a += b/60;  b %= 60;
+    a %= 24;
+
+    cout << a << ' ' << b << ' ' << c;
+}
