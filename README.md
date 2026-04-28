@@ -4,6 +4,8 @@
 - 2025년 07월 21일에 생성해 매일 1 문제 이상을 목표로 합니다.
 
 ## BOJ Achievements
+<img width="2000" height="1200" alt="BOJ memory - shjh0815" src="https://github.com/user-attachments/assets/4526e866-3344-4d0d-9c68-cdf5e6f03327" />
+
 - 2025.07.14 백준 계정 생성
 - 2025.07.29 GOLD V
 - 2025.09.01 Platinum V
@@ -13,6 +15,7 @@
 - 2025.11.26 Platinum III
 - 2026.04.06 Platinum II
 - 2026.04.28 1000 solved
+
 
 ## Profile
 <a href="https://solved.ac/profile/shjh0815"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=shjh0815"></a>
