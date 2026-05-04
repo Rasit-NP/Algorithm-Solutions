@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0009-palindrome-number) |  Easy |
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 <!---LeetCode Topics End-->
