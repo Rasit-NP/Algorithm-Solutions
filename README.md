@@ -76,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -95,4 +96,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
