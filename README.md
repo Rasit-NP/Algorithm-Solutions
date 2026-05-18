@@ -33,6 +33,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0001-two-sum/) |  Easy |
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Math
@@ -146,4 +148,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 <!---LeetCode Topics End-->
