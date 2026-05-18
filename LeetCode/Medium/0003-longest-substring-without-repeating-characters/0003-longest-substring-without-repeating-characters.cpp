@@ -1,5 +1,5 @@
 # include <string>
-# include <unordered_set>
+# include <unordered_map>
 # include <algorithm>
 using namespace std;
 
@@ -8,21 +8,20 @@ public:
     int lengthOfLongestSubstring(string s) {
         int n = s.size();
         int res = 0;
+        unordered_map<char, int> latest;
 
-        for (int i=0; i<n; i++){
-            unordered_set<char> visited;
-            int cnt = 0;
-            for (int j=i; j<n; j++){
-                char let = s[j];
-                if (visited.find(let) == visited.end()){
-                    ++cnt;
-                    visited.insert(let);
-                }
-                else {
-                    break;
-                }
+        for (int head=-1, tail=0; tail<n; tail++){
+            char let = s[tail];
+            if (latest.find(let) == latest.end()){
+                latest[let] = tail;
             }
-            res = max(res, cnt);
+            else {
+                if (latest[let] > head){
+                    head = latest[let];
+                }
+                latest[let] = tail;
+            }
+            res = max(tail-head, res);
         }
 
         return res;
