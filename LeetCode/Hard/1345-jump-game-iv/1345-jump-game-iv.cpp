@@ -1,7 +1,7 @@
 # include <vector>
 # include <queue>
-# include <map>
-# include <set>
+# include <unordered_map>
+# include <unordered_set>
 using namespace std;
 
 class Solution {
@@ -9,10 +9,10 @@ private:
 public:
     int minJumps(vector<int>& arr) {
         int n = arr.size();
-        map<int, vector<int>> edges;
+        unordered_map<int, vector<int>> edges;
         vector<int> visited(n, -1);
         queue<int> q;
-        set<int> passed;
+        unordered_set<int> passed;
 
         for (int i=0; i<n; i++){
             int num = arr[i];
