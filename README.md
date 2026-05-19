@@ -39,6 +39,7 @@
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -52,6 +53,7 @@
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +145,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
