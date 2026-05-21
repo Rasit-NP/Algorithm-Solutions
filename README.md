@@ -44,6 +44,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3660-jump-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
