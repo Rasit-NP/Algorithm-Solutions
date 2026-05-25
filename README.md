@@ -78,6 +78,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## String Matching
@@ -91,6 +92,7 @@
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 ## Matrix
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
