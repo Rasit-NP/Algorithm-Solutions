@@ -33,6 +33,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -115,6 +116,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 ## Simulation
@@ -146,10 +148,12 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
