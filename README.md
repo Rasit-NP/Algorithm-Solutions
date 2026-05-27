@@ -48,6 +48,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3660-jump-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +155,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +163,7 @@
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
