@@ -1,5 +1,4 @@
 # include <algorithm>
-# include <set>
 using namespace std;
 
 class Solution {
@@ -16,11 +15,11 @@ public:
             int start = nums[i];
             int l = i+1, r = n-1;
             while (l < r){
-                int now = nums[l] + nums[r];
-                if (now + start < 0){
+                int now = start + nums[l] + nums[r];
+                if (now < 0){
                     ++l;
                 }
-                else if (now + start > 0){
+                else if (now > 0){
                     --r;
                 }
                 else {
