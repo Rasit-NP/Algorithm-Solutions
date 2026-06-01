@@ -1,28 +1,31 @@
 # include <vector>
-# include <map>
+# include <algorithm>
 using namespace std;
 
 class MinStack {
 private:
     int* stk;
+    int* mini;
     int sz;
-    map<int, int> cnt;
 public:
     MinStack() {
         stk = (int*)malloc(sizeof(int)*30001);
+        mini = (int*)malloc(sizeof(int)*30001);
         sz = 0;
     }
     
     void push(int val) {
-        cnt[val]++;
+        if (sz){
+            mini[sz] = min(mini[sz-1], val);
+        }
+        else {
+            mini[sz] = val;
+        }
         stk[sz++] = val;
     }
     
     void pop() {
-        int val = stk[--sz];
-        if (--cnt[val] == 0){
-            cnt.erase(val);
-        }
+        --sz;
     }
     
     int top() {
@@ -30,10 +33,6 @@ public:
     }
     
     int getMin() {
-        for (pair<const int, int>& data : cnt){
-            return data.first;
-        }
-
-        return 0;
+        return mini[sz-1];
     }
 };
