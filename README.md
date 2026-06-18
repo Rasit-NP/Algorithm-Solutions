@@ -293,4 +293,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
