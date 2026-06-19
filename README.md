@@ -299,4 +299,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
