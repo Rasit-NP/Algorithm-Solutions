@@ -144,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -176,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
