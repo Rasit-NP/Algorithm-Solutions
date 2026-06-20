@@ -12,12 +12,13 @@ private:
     priority_queue<pair<int, int>> pq;
 public:
     int maxBuilding(int n, vector<vector<int>>& restrictions) {
-        len = restrictions.size();
+        len = restrictions.size()+2;
         if (len == 0){
             return n-1;
         }
-        restrictions.reserve(len++);
+        restrictions.reserve(len);
         restrictions.push_back({1, 0});
+        restrictions.push_back({n, n-1});
         heights.assign(len, INT_MAX);
 
         sort(restrictions.begin(), restrictions.end());
@@ -59,12 +60,6 @@ public:
 
             diff -= dh;
             res = max(res, max(heights[i], heights[i+1]) + diff/2);
-        }
-
-        int x = restrictions.back()[2];
-        int id = restrictions[x][0];
-        if (id < n){
-            res = max(res, heights[x] + (n-id));
         }
 
         return res;
