@@ -313,6 +313,7 @@
 | [0182-duplicate-emails](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
