@@ -1,5 +1,4 @@
 select class
-from (select class, count(class)
-      from Courses
-      group by class)
-where count >= 5;
+from Courses
+group by class
+having count(*) >= 5;
