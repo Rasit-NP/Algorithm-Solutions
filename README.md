@@ -70,6 +70,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +210,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +247,7 @@
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +294,7 @@
 | [3161-block-placement-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
