@@ -17,18 +17,12 @@ public:
         sz = r-l+1;
         dp.assign(n+1, vector<int>(sz*2, 0));
 
-        for (int i=0; i<=r-l; i++){
-            for (int j=0; j<=r-l; j++){
-                if (i < j){
-                    ++dp[2][j+sz];
-                }
-                else if (i > j){
-                    ++dp[2][j];
-                }
-            }
+        for (int num=0; num<=r-l; ++num){
+            dp[1][num] = 1;
+            dp[1][num+sz] = 1;
         }
 
-        for (int i=3; i<=n; ++i){
+        for (int i=2; i<=n; ++i){
             int val = 0;
             for (int num=0; num<r-l; ++num){
                 sumAndMod(val, dp[i-1][num]);
