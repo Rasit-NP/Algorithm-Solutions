@@ -7,17 +7,18 @@ private:
     vector<vector<int>> edges;
 
     vector<vector<int>> mult(vector<vector<int>>& a, vector<vector<int>>& b){
-        int len = a.size();
-        vector<vector<int>> res(len, vector<int>(len, 0));
+        int n = a.size();
+        int m = b[0].size();
+        int l = b.size();
+        vector<vector<int>> res(n, vector<int>(m, 0));
 
-        for (int i=0; i<len; i++){
-            for (int j=0; j<len; j++){
+        for (int i=0; i<n; i++){
+            for (int j=0; j<m; j++){
                 llong val = 0;
-                for (int k=0; k<len; k++){
+                for (int k=0; k<l; k++){
                     val += (llong)a[i][k] * b[k][j];
                     val %= 1'000'000'007;
                 }
-
                 res[i][j] = (int)val;
             }
         }
@@ -44,7 +45,7 @@ public:
             }
         }
 
-        vector<int> state(2*len, 1);
+        vector<vector<int>> state(2*len, vector<int>(1, 1));
         vector<vector<int>> now(2*len, vector<int>(2*len, 0));
         for (int i=0; i<2*len; i++){
             now[i][i] = 1;
@@ -53,7 +54,7 @@ public:
         --n;
         for (vector<vector<int>> base = edges; n; base = square(base)){
             if (n&1){
-                now = mult(now, base);
+                state = mult(base, state);
             }
             n >>= 1;
         }
@@ -61,10 +62,8 @@ public:
         int res = 0;
 
         for (int i=0; i<2*len; i++){
-            for (int j=0; j<2*len; j++){
-                res += now[i][j];
-                res %= 1'000'000'007;
-            }
+            res += state[i][0];
+            res %= 1'000'000'007;
         }
 
         return res;
