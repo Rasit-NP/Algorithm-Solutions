@@ -1,3 +1,68 @@
 # [Zhily and Array Operating](https://codeforces.com/contest/2224/problem/A)
 
-<div class="header"><div class="title">A. Zhily and Array Operating</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p><span class="tex-font-size-small">Deep in the wilderness, Zhily and Jily discovered a series of gathering places that contain abstract logic. Some of these gathering places harbor inconsistent errors in their logic, which may collapse at any moment. They hope to transmit logic between adjacent gathering places through reasonable transfer arrangements so that as many gathering places as possible can eventually restore logical stability.</span></p><p>You are given an array $$$a$$$ of $$$n$$$ integers. You can perform the following operation any number of times:</p><ul> <li> Choose an index $$$i$$$ ($$$1 \le i  \lt  n$$$) and assign $$$a_i\gets a_i+a_{i+1}$$$.</li></ul><p>Each index can be chosen <span class="tex-font-style-bf">at most once</span>.</p><p>Find the maximum number of positive integers in the final array after all operations.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^4$$$). The description of the test cases follows. </p><p>The first line of each test case contains a single integer $$$n$$$ ($$$2\leq n \leq 2\cdot 10^5$$$).</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1,a_2,\ldots,a_n$$$ ($$$-10^9\leq a_i\leq 10^9$$$).</p><p>It is guaranteed that the sum of $$$n$$$ over all test cases does not exceed $$$2\cdot10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, you should output a single line containing an integer $$$k$$$, the number of positive numbers in the final sequence.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0021775679439371465" id="id002372554129156269" class="input-output-copier">Copy</div></div><pre id="id0021775679439371465"><div class="test-example-line test-example-line-even test-example-line-0">4</div><div class="test-example-line test-example-line-odd test-example-line-1">5</div><div class="test-example-line test-example-line-odd test-example-line-1">0 -1 3 -3 0</div><div class="test-example-line test-example-line-even test-example-line-2">5</div><div class="test-example-line test-example-line-even test-example-line-2">0 -2 1 2 3</div><div class="test-example-line test-example-line-odd test-example-line-3">5</div><div class="test-example-line test-example-line-odd test-example-line-3">0 1 0 1 0</div><div class="test-example-line test-example-line-even test-example-line-4">2</div><div class="test-example-line test-example-line-even test-example-line-4">1000000000 -1000000000</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007966040334775122" id="id007644396689067426" class="input-output-copier">Copy</div></div><pre id="id007966040334775122"><div class="test-example-line test-example-line-odd test-example-line-1">3</div><div class="test-example-line test-example-line-even test-example-line-2">5</div><div class="test-example-line test-example-line-odd test-example-line-3">4</div><div class="test-example-line test-example-line-even test-example-line-4">1</div></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the array $$$a$$$ is operated on by the following process:</p><p>$$$[0,-1,3,-3,0]\to [0,\color{red}{2},3,-3,0]\to [\color{red}{2},2,3,-3,0]$$$.</p><p>There are $$$3$$$ positive numbers in the final array, and it can be proven that this is the maximum count of positive integers.</p><p>In the second test case, the final array can be:$$$[4,4,6,5,3]$$$, which is operated on by the following process:</p><p>$$$[0,-2,1,2,3]\to [0,-2,1,\color{red}{5},3]\to [0,-2,\color{red}{6},5,3]\to [0,\color{red}{4},6,5,3]\to [\color{red}{4},4,6,5,3]$$$.</p><p>In the third test case, the final array can be:$$$[1,1,1,1,0]$$$, which is operated on by the following process:</p><p>$$$[0,1,0,1,0]\to [\color{red}{1},1,0,1,0]\to [1,1,\color{red}{1},1,0]$$$.</p></div>
+### Limits
+
+time: 1s, memory: 512 megabytes
+
+## Problem
+
+Deep in the wilderness, Zhily and Jily discovered a series of gathering places that contain abstract logic. Some of these gathering places harbor inconsistent errors in their logic, which may collapse at any moment. They hope to transmit logic between adjacent gathering places through reasonable transfer arrangements so that as many gathering places as possible can eventually restore logical stability.
+
+You are given an array $a$ of $n$ integers. You can perform the following operation any number of times:
+
+*   Choose an index $i$ ($1 \le i \lt n$) and assign $a_i\gets a_i+a_{i+1}$.
+
+Each index can be chosen at most once.
+
+Find the maximum number of positive integers in the final array after all operations.
+
+### Input
+
+Each test contains multiple test cases. The first line contains the number of test cases $t$ ($1 \le t \le 10^4$). The description of the test cases follows.
+
+The first line of each test case contains a single integer $n$ ($2\leq n \leq 2\cdot 10^5$).
+
+The second line of each test case contains $n$ integers $a_1,a_2,\ldots,a_n$ ($-10^9\leq a_i\leq 10^9$).
+
+It is guaranteed that the sum of $n$ over all test cases does not exceed $2\cdot10^5$.
+
+### Output
+
+For each test case, you should output a single line containing an integer $k$, the number of positive numbers in the final sequence.
+
+## Examples
+### Input
+```
+4
+5
+0 -1 3 -3 0
+5
+0 -2 1 2 3
+5
+0 1 0 1 0
+2
+1000000000 -1000000000
+```
+
+### Output
+```
+3
+5
+4
+1
+```
+
+## Note
+In the first test case, the array $a$ is operated on by the following process:
+
+$[0,-1,3,-3,0]\to [0,\color{red}{2},3,-3,0]\to [\color{red}{2},2,3,-3,0]$.
+
+There are $3$ positive numbers in the final array, and it can be proven that this is the maximum count of positive integers.
+
+In the second test case, the final array can be:$[4,4,6,5,3]$, which is operated on by the following process:
+
+$[0,-2,1,2,3]\to [0,-2,1,\color{red}{5},3]\to [0,-2,\color{red}{6},5,3]\to [0,\color{red}{4},6,5,3]\to [\color{red}{4},4,6,5,3]$.
+
+In the third test case, the final array can be:$[1,1,1,1,0]$, which is operated on by the following process:
+
+$[0,1,0,1,0]\to [\color{red}{1},1,0,1,0]\to [1,1,\color{red}{1},1,0]$.
