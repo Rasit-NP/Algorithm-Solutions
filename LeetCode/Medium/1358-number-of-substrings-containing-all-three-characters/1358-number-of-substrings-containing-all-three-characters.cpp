@@ -6,25 +6,21 @@ using namespace std;
 class Solution {
 private:
     int n;
-    queue<int> q[3];
 public:
     int numberOfSubstrings(string s) {
         n = s.size();
 
+        int res = 0;
+        int last[3] = {-1, -1, -1};
+
         for(int i=0; i<n; i++){
             char let = s[i];
 
-            q[let-'a'].push(i);
-        }
+            last[let-'a'] = i;
 
-        int res = 0;
-
-        while (q[0].size() && q[1].size() && q[2].size()){
-            sort(q, q+3);
-            int first = q[0].front();   q[0].pop();
-            int last = max(q[1].front(), q[2].front());
-
-            res += n-last;
+            if (last[0] != -1 && last[1] != -1 && last[2] != -1){
+                res += min({last[0], last[1], last[2]}) + 1;
+            }
         }
 
         return res;
