@@ -1,10 +1,12 @@
 # include <vector>
+# include <queue>
 using namespace std;
 
 class Solution {
 private:
     vector<vector<int>> edges;
     vector<int> cntParents;
+    queue<int> q;
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         edges.assign(numCourses, vector<int>(0));
@@ -16,27 +18,25 @@ public:
             cntParents[a]++;
         }
 
-        int cnt = 0;
-        while (cnt < numCourses){
-            vector<int> reserved;
-            for (int i=0; i<numCourses; i++){
-                if (cntParents[i] == 0){
-                    reserved.push_back(i);
-                    ++cnt;
-                    cntParents[i] = -1;
-                }
-            }
-            if (reserved.empty()){
-                return false;
-            }
-
-            for (int x : reserved){
-                for (int nx : edges[x]){
-                    cntParents[nx]--;
-                }
+        for (int i=0; i<numCourses; i++){
+            if (cntParents[i] == 0){
+                q.push(i);
             }
         }
 
-        return true;
+        int cnt = 0;
+        while (q.size()){
+            ++cnt;
+            int x = q.front();  q.pop();
+
+            for (int nx : edges[x]){
+                if (--cntParents[nx] == 0){
+                    q.push(nx);
+                }
+                cntParents[x]--;
+            }
+        }
+
+        return cnt == numCourses;
     }
 };
