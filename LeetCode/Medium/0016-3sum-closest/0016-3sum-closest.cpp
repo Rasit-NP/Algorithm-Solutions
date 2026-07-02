@@ -9,20 +9,12 @@ public:
         int res = nums[0] + nums[1] + nums[2];
         sort(nums.begin(), nums.end());
 
-        for (int i=0; i<n; i++){
+        for (int i=0; i<n-2; i++){
             int x = nums[i];
 
-            int l = 0, r = n-1;
+            int l = i+1, r = n-1;
             int sum;
             while (l < r){
-                if (i == l){
-                    ++l;
-                    continue;
-                }
-                if (i == r){
-                    --r;
-                    continue;
-                }
                 sum = x + nums[l] + nums[r];
                 if (abs(target - sum) < abs(target - res)){
                     res = sum;
