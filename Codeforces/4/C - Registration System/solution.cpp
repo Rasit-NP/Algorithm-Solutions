@@ -1,1 +1,22 @@
-# include <iostream># include <string># include <unordered_map>using namespace std; int main(void){	ios::sync_with_stdio(false);	cin.tie(NULL);	cout.tie(NULL);		unordered_map<string, int> names; 	int n;	cin >> n;	while (n--){		string name;	cin >> name;		if (names[name]++){			cout << name << names[name]-1 << '\n';		}		else {			cout << "OK\n";		}	}}
+# include <iostream>
+# include <string>
+# include <unordered_map>
+using namespace std;
+ 
+int main(void){
+	ios::sync_with_stdio(false);
+	cin.tie(NULL);	cout.tie(NULL);
+	
+	unordered_map<string, int> names;
+ 
+	int n;	cin >> n;
+	while (n--){
+		string name;	cin >> name;
+		if (names[name]++){
+			cout << name << names[name]-1 << '\n';
+		}
+		else {
+			cout << "OK\n";
+		}
+	}
+}
