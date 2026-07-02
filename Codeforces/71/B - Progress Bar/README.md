@@ -1,3 +1,42 @@
 # [Progress Bar](https://codeforces.com/contest/71/problem/B)
 
-<div class="header"><div class="title">B. Progress Bar</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>A progress bar is an element of graphical interface that displays the progress of a process for this very moment before it is completed. Let's take a look at the following form of such a bar.</p><p>A bar is represented as <span class="tex-span"><i>n</i></span> squares, located in line. To add clarity, let's number them with positive integers from <span class="tex-span">1</span> to <span class="tex-span"><i>n</i></span> from the left to the right. Each square has saturation (<span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> for the <span class="tex-span"><i>i</i></span>-th square), which is measured by an integer from <span class="tex-span">0</span> to <span class="tex-span"><i>k</i></span>. When the bar for some <span class="tex-span"><i>i</i></span> (<span class="tex-span">1 ≤ <i>i</i> ≤ <i>n</i></span>) is displayed, squares <span class="tex-span">1, 2, ... , <i>i</i> - 1</span> has the saturation <span class="tex-span"><i>k</i></span>, squares <span class="tex-span"><i>i</i> + 1, <i>i</i> + 2, ... , <i>n</i></span> has the saturation <span class="tex-span">0</span>, and the saturation of the square <span class="tex-span"><i>i</i></span> can have any value from <span class="tex-span">0</span> to <span class="tex-span"><i>k</i></span>.</p><p>So some first squares of the progress bar always have the saturation <span class="tex-span"><i>k</i></span>. Some last squares always have the saturation <span class="tex-span">0</span>. And there is no more than one square that has the saturation different from <span class="tex-span">0</span> and <span class="tex-span"><i>k</i></span>.</p><p>The degree of the process's completion is measured in percents. Let the process be <span class="tex-span"><i>t</i></span>% completed. Then the following inequation is fulfilled: </p><center class="tex-equation"><img align="middle" class="tex-formula" src="https://espresso.codeforces.com/b409a1d17f3e5356e7e72566ff1b99fd47ec1b59.png" style="max-width: 100.0%;max-height: 100.0%;"></center><p>An example of such a bar can be seen on the picture.</p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/c5c3951d407b9d376bf210a8c1a4010bfedcaf36.png" style="max-width: 100.0%;max-height: 100.0%;"> </center><p>For the given <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span>, <span class="tex-span"><i>t</i></span> determine the measures of saturation for all the squares <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> of the progress bar.</p></div><div class="input-specification"><div class="section-title">Input</div><p>We are given 3 space-separated integers <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>k</i></span>, <span class="tex-span"><i>t</i></span> (<span class="tex-span">1 ≤ <i>n</i>, <i>k</i> ≤ 100</span>, <span class="tex-span">0 ≤ <i>t</i> ≤ 100</span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print <span class="tex-span"><i>n</i></span> numbers. The <span class="tex-span"><i>i</i></span>-th of them should be equal to <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005788144690232884" id="id0015730550892792527" class="input-output-copier">Copy</div></div><pre id="id005788144690232884">10 10 54<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005398742341288119" id="id0027341721395962293" class="input-output-copier">Copy</div></div><pre id="id005398742341288119">10 10 10 10 10 4 0 0 0 0 </pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007099610539348115" id="id006561071520174306" class="input-output-copier">Copy</div></div><pre id="id007099610539348115">11 13 37<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006571079017619536" id="id006036421816257245" class="input-output-copier">Copy</div></div><pre id="id006571079017619536">13 13 13 13 0 0 0 0 0 0 0 </pre></div></div></div>
+### Limits
+
+time: 1s, memory: 256 megabytes
+
+## Problem
+
+A progress bar is an element of graphical interface that displays the progress of a process for this very moment before it is completed. Let's take a look at the following form of such a bar.
+
+A bar is represented as _n_ squares, located in line. To add clarity, let's number them with positive integers from 1 to _n_ from the left to the right. Each square has saturation (_a__i_ for the _i_\-th square), which is measured by an integer from 0 to _k_. When the bar for some _i_ (1 ≤ _i_ ≤ _n_) is displayed, squares 1, 2, ... , _i_ - 1 has the saturation _k_, squares _i_ + 1, _i_ + 2, ... , _n_ has the saturation 0, and the saturation of the square _i_ can have any value from 0 to _k_.
+
+So some first squares of the progress bar always have the saturation _k_. Some last squares always have the saturation 0. And there is no more than one square that has the saturation different from 0 and _k_.
+
+The degree of the process's completion is measured in percents. Let the process be _t_% completed. Then the following inequation is fulfilled:
+
+![](https://espresso.codeforces.com/b409a1d17f3e5356e7e72566ff1b99fd47ec1b59.png)
+
+An example of such a bar can be seen on the picture.
+
+![](https://espresso.codeforces.com/c5c3951d407b9d376bf210a8c1a4010bfedcaf36.png)
+
+For the given _n_, _k_, _t_ determine the measures of saturation for all the squares _a__i_ of the progress bar.
+
+### Input
+
+We are given 3 space-separated integers _n_, _k_, _t_ (1 ≤ _n_, _k_ ≤ 100, 0 ≤ _t_ ≤ 100).
+
+### Output
+
+Print _n_ numbers. The _i_\-th of them should be equal to _a__i_.
+
+## Examples
+### Input
+```
+10 10 54
+```
+
+### Output
+```
+10 10 10 10 10 4 0 0 0 0
+```
