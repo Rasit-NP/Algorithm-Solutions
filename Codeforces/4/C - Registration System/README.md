@@ -1,3 +1,30 @@
-<h3><a href="https://codeforces.com/contest/4/problem/C" target="_blank" rel="noopener noreferrer">Registration System</a></h3>
+# [Registration System](https://codeforces.com/contest/4/problem/C)
 
-<div class="header"><div class="title">C. Registration system</div><div class="time-limit"><div class="property-title">time limit per test</div>5 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>A new e-mail service "Berlandesk" is going to be opened in Berland in the near future. The site administration wants to launch their project as soon as possible, that's why they ask you to help. You're suggested to implement the prototype of site registration system. The system should work on the following principle. </p><p>Each time a new user wants to register, he sends to the system a request with his <span class="tex-font-style-tt">name</span>. If such a <span class="tex-font-style-tt">name</span> does not exist in the system database, it is inserted into the database, and the user gets the response <span class="tex-font-style-tt">OK</span>, confirming the successful registration. If the <span class="tex-font-style-tt">name</span> already exists in the system database, the system makes up a new user name, sends it to the user as a prompt and <span class="tex-font-style-it">also inserts the prompt into the database</span>. The new name is formed by the following rule. Numbers, starting with 1, are appended one after another to <span class="tex-font-style-tt">name</span> (<span class="tex-font-style-tt">name1</span>, <span class="tex-font-style-tt">name2</span>, ...), among these numbers the least <span class="tex-span"><i>i</i></span> is found so that <span class="tex-font-style-tt">name</span><span class="tex-span"><i>i</i></span> does not yet exist in the database.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup></span>). The following <span class="tex-span"><i>n</i></span> lines contain the requests to the system. Each request is a non-empty line, and consists of not more than 32 characters, which are all lowercase Latin letters.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print <span class="tex-span"><i>n</i></span> lines, which are system responses to the requests: <span class="tex-font-style-tt">OK</span> in case of successful registration, or a prompt with a new name, if the requested name is already taken.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008785761922735333" id="id008293357435880065" class="input-output-copier">Copy</div></div><pre id="id008785761922735333">4<br>abacaba<br>acaba<br>abacaba<br>acab<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004029534327612492" id="id0003057435665067909" class="input-output-copier">Copy</div></div><pre id="id004029534327612492">OK<br>OK<br>abacaba1<br>OK<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0014132147864108213" id="id005968442575626287" class="input-output-copier">Copy</div></div><pre id="id0014132147864108213">6<br>first<br>first<br>second<br>second<br>third<br>third<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005379788824864442" id="id009654302328270019" class="input-output-copier">Copy</div></div><pre id="id005379788824864442">OK<br>first1<br>OK<br>second1<br>OK<br>third1<br></pre></div></div></div>
+### Limits
+
+time: 5s, memory: 64 megabytes
+
+## Problem
+
+A new e-mail service "Berlandesk" is going to be opened in Berland in the near future. The site administration wants to launch their project as soon as possible, that's why they ask you to help. You're suggested to implement the prototype of site registration system. The system should work on the following principle.
+
+Each time a new user wants to register, he sends to the system a request with his `name`. If such a `name` does not exist in the system database, it is inserted into the database, and the user gets the response `OK`, confirming the successful registration. If the `name` already exists in the system database, the system makes up a new user name, sends it to the user as a prompt and also inserts the prompt into the database. The new name is formed by the following rule. Numbers, starting with 1, are appended one after another to `name` (`name1`, `name2`, ...), among these numbers the least _i_ is found so that `name`_i_ does not yet exist in the database.
+
+### Input
+
+The first line contains number _n_ (1 ≤ _n_ ≤ 105). The following _n_ lines contain the requests to the system. Each request is a non-empty line, and consists of not more than 32 characters, which are all lowercase Latin letters.
+
+### Output
+
+Print _n_ lines, which are system responses to the requests: `OK` in case of successful registration, or a prompt with a new name, if the requested name is already taken.
+
+## Examples
+### Input
+```
+4abacabaacabaabacabaacab
+```
+
+### Output
+```
+OKOKabacaba1OK
+```
