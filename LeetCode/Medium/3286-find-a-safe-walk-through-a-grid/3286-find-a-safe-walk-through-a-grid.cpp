@@ -1,5 +1,5 @@
 # include <vector>
-# include <queue>
+# include <deque>
 # include <climits>
 using namespace std;
 
@@ -10,20 +10,20 @@ public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
         int n = grid.size();
         int m = grid[0].size();
-        priority_queue<vector<int>> pq;
+        deque<pair<int, int>> dq;
         vector<vector<int>> visited(n, vector<int>(m, 0));
 
         if (grid[0][0]){
             --health;
         }
 
-        pq.push({health, 0, 0});
+        dq.push_back({0, 0});
         visited[0][0] = health;
 
-        while (pq.size()){
-            vector<int> v = pq.top();   pq.pop();
+        while (dq.size()){
+            const auto [x, y] = dq.front();   dq.pop_front();
+            int now = visited[x][y];
 
-            int now = v[0], x = v[1], y = v[2];
             if (x == n-1 && y == m-1){
                 return true;
             }
@@ -35,11 +35,11 @@ public:
                 }
                 if (grid[nx][ny] && now > 1 && visited[nx][ny] < now-1){
                     visited[nx][ny] = now - 1;
-                    pq.push({now-1, nx, ny});
+                    dq.push_back({nx, ny});
                 }
                 else if (grid[nx][ny] == 0 && visited[nx][ny] < now){
                     visited[nx][ny] = now;
-                    pq.push({now, nx, ny});
+                    dq.push_front({nx, ny});
                 }
             }
         }
