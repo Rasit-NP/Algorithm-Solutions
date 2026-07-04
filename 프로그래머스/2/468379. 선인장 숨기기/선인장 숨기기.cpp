@@ -1,6 +1,5 @@
 # include <vector>
 # include <deque>
-# include <iostream>
 using namespace std;
 
 vector<int> solution(int n, int m, int h, int w, vector<vector<int>> drops) {
@@ -17,16 +16,23 @@ vector<int> solution(int n, int m, int h, int w, vector<vector<int>> drops) {
         deque<int> dq;
         for (int j=0; j<w-1; j++){
             int val = table[i][j];
-            if (j == 0 || val >= dq.back()){
+            if (j == 0){
+                dq.push_back(val);
+            }
+            else if (j){
+                while (dq.size() && val < dq.back()){
+                    dq.pop_back();
+                }
                 dq.push_back(val);
             }
         }
         
         for (int j=w-1; j<m; j++){
             int val = table[i][j];
-            if (j != 0 || (dq.size() && val >= dq.back())){
-                dq.push_back(val);
+            while (dq.size() && val < dq.back()){
+                dq.pop_back();
             }
+            dq.push_back(val);
             rowMin[i][j-w+1] = dq.front();
             if (dq.size() && dq.front() == table[i][j-w+1]){
                 dq.pop_front();
@@ -38,36 +44,41 @@ vector<int> solution(int n, int m, int h, int w, vector<vector<int>> drops) {
     for (int j=0; j<m-w+1; j++){
         deque<int> dq;
         for (int i=0; i<h-1; i++){
-            int val = table[i][j];
-            if (i == 0 || val >= dq.back()){
+            int val = rowMin[i][j];
+            if (i == 0){
+                dq.push_back(val);
+            }
+            else{
+                while (dq.size() && val < dq.back()){
+                    dq.pop_back();
+                }
                 dq.push_back(val);
             }
         }
         
         for (int i=h-1; i<n; i++){
-            int val = table[i][j];
-            if (i != 0 || (dq.size() && val >= dq.back())){
-                dq.push_back(val);
+            int val = rowMin[i][j];
+            while (dq.size() && val < dq.back()){
+                dq.pop_back();
             }
+            dq.push_back(val);
             finMin[i-h+1][j] = dq.front();
-            if (dq.size() && dq.front() == table[i-h+1][j]){
+            if (dq.size() && dq.front() == rowMin[i-h+1][j]){
                 dq.pop_front();
             }
         }
     }
     
-    int res = 1'000'000;
+    int res = 0;
     vector<int> ans(2, 0);
     for (int i=0; i<n-h+1; i++){
         for (int j=0; j<m-w+1; j++){
-            if (finMin[i][j] < res){
+            if (finMin[i][j] > res){
                 res = finMin[i][j];
                 ans = {i, j};
             }
         }
     }
-    
-    cout << res;
     
     return ans;
 }
