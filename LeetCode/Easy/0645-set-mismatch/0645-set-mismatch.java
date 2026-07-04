@@ -7,23 +7,13 @@ class Solution {
             count[num]++;
         }
 
-        int sz = 0;
-        for (int i=1; i<=n; i++){
-            if (count[i] == 0 || count[i] >= 2){
-                ++sz;
-            }
-        }
-
-        int idx = 0;
-        int[] res = new int[sz];
+        int[] res = new int[2];
         for (int i=1; i<=n; i++){
             if (count[i] >= 2){
-                res[idx++] = i;
+                res[0] = i;
             }
-        }
-        for (int i=1; i<=n; i++){
-            if (count[i] == 0){
-                res[idx++] = i;
+            else if (count[i] == 0){
+                res[1] = i;
             }
         }
 
