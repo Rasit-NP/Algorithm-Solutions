@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/master/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0027-remove-element](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
@@ -190,6 +191,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0027-remove-element](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
