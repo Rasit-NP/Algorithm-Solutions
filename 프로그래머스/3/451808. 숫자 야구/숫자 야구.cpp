@@ -1,12 +1,14 @@
 # include <string>
 # include <vector>
 # include <map>
+# include <set>
+# include <algorithm>
 using namespace std;
 typedef pair<int, int> pi;
 
 extern string submit(int);
 
-map<int, pi> rec;
+set<int> isAble;
 
 pi convert(string ret){
     pi res;
@@ -55,36 +57,60 @@ bool check(int target){
         string x = to_string(target);
         if (x[0] == '0' || x[1] == '0' || x[2] == '0' || x[3] == '0')
             return false;
-    }
-    
-    for (const auto& [x, mem] : rec){
-        pi ret = cal(x, target);
-        if (ret.first != mem.first || ret.second != mem.second){
-            return false;
-        }
-    }
-    
+    }    
     return true;
 }
 
 int solution(int n) {
-    int cnt = 0;
-    for(int i = 1000; i <= 9999; i++){
-        pi ret;
-        if (!check(i)){
-            continue;
+
+    for (int num=1234; num<=9876; ++num){
+        if (check(num)){
+            isAble.insert(num);
         }
-        if (++cnt <= n){
-            ret = convert(submit(i));
+    }
+
+    pi beforeResult = convert(submit(1234));
+    int beforeNum = 1234;
+    
+    for (int cnt=1; cnt <= 6; cnt++){
+        int maxVal = 3024;
+        int nextNum;
+        vector<int> candidates;
+        
+        for (int num : isAble){
+            pi ret = cal(beforeNum, num);
+            if (ret.first != beforeResult.first || ret.second != beforeResult.second){
+                candidates.push_back(num);
+            }
         }
-        else {
-            return i;
+        
+        for (int cand : candidates){
+            isAble.erase(cand);
         }
-        if (ret.first == 4 && ret.second == 0){
-            return i;
+        
+        if (isAble.size() == 1){
+            return *isAble.begin();
         }
-        else {
-            rec.insert({i, ret});
+
+        for (int num : isAble){
+            map<pi, int> cnt;
+            int worstVal = 0;
+            for (int ans : isAble){
+                cnt[cal(num, ans)] += 1;
+            }
+            for (const auto& [key, val] : cnt){
+                worstVal = max(worstVal, val);
+            }
+
+            if (worstVal < maxVal){
+                maxVal = worstVal;
+                nextNum = num;
+            }
+        }
+        beforeNum = nextNum;
+        beforeResult = convert(submit(nextNum));
+        if (beforeResult.first == 4 && beforeResult.second == 0){
+            return nextNum;
         }
     }
     return 0;
