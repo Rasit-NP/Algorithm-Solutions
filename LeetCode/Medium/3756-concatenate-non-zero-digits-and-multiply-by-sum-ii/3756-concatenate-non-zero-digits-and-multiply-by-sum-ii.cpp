@@ -58,9 +58,6 @@ public:
                 xs[i] %= MAX;
                 cnt[i] = cnt[i-1] + 1;
             }
-        }
-
-        for (int i=1; i<=len; ++i){
             sums[i] = sums[i-1] + (s[i-1] - '0');
         }
 
