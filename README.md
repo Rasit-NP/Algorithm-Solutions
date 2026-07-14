@@ -316,6 +316,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -364,6 +365,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
@@ -379,12 +381,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Database
 | Problem Name | Difficulty |
