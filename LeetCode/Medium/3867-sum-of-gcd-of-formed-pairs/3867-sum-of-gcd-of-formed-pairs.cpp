@@ -1,13 +1,8 @@
+# include <vector>
+# include <algorithm>
+# include <numeric>
+
 class Solution {
-private:
-    int getGCD(int a, int b){
-        while (a % b){
-            int tmp = a%b;
-            a = b;
-            b = tmp;
-        }
-        return b;
-    }
 public:
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
@@ -18,14 +13,14 @@ public:
 
         for (int num : nums){
             nowMax = max(nowMax, num);
-            prefixGcd.emplace_back(getGCD(nowMax, num));
+            prefixGcd.emplace_back(gcd(nowMax, num));
         }
 
         sort(prefixGcd.begin(), prefixGcd.end());
 
         long long res = 0;
         for (int i=0; i<len; i++){
-            res += getGCD(prefixGcd[i], prefixGcd[n-i-1]);
+            res += gcd(prefixGcd[i], prefixGcd[n-i-1]);
         }
 
         return res;
