@@ -9,7 +9,10 @@ public:
         string arg = "1" + s + "1";
         int len = arg.size();
         int oneCnt = 0;
+        int sz = 0;
         vector<int> chunks;
+
+        int val = 0;
 
         for (int i=1; i<len; i++){
             static int nowLen = 1;
@@ -22,21 +25,11 @@ public:
             }
             if (arg[i] == '1'){
                 chunks.emplace_back(nowLen);
+                if (++sz > 1){
+                    val = max(val, chunks.back() + chunks[sz-2]);
+                }
             }
             nowLen = 1;
-        }
-
-        int sz = chunks.size();
-        if (sz == 0){
-            return len-2;
-        }
-        else if (sz == 1){
-            return len-chunks[0]-2;
-        }
-
-        int val = 0;
-        for (int i=1; i<sz; i++){
-            val = max(val, chunks[i-1] + chunks[i]);
         }
 
         return oneCnt + val;
