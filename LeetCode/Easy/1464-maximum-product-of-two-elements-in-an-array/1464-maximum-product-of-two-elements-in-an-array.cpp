@@ -5,7 +5,6 @@ using namespace std;
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int res = 0;
         int first = 0, second = 0;
 
         for (int num : nums){
@@ -18,8 +17,6 @@ public:
             }
         }
 
-        res = (first-1) * (second-1);
-
-        return res;
+        return (first-1) * (second-1);
     }
 };
