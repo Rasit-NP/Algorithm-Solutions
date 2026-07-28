@@ -173,6 +173,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -317,6 +318,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -452,6 +454,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
