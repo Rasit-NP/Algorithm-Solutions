@@ -139,6 +139,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -170,6 +171,7 @@
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -296,6 +298,7 @@
 | [2126-destroying-asteroids](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
