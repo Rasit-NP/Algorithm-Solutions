@@ -118,6 +118,7 @@
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -173,6 +174,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -302,6 +304,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -328,6 +331,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -466,6 +470,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
