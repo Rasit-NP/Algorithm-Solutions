@@ -10,8 +10,8 @@ private:
     deque<int> dq;
     vector<int> nums;
 
-    bool foo(int state){
-        if (state == (1<<n) - 1){
+    bool foo(){
+        if (dq.empty()){
             if (scores[1] >= scores[0])
                 return true;
             else
@@ -28,11 +28,7 @@ private:
             
             scores[myTurn] += score;
             myTurn ^= 1;
-            state ^= (1 << idx[i]);
-
-            res[i] = foo(state);
-
-            state ^= (1 << idx[i]);
+            res[i] = foo();
             myTurn ^= 1;
             scores[myTurn] -= score;
 
@@ -58,7 +54,7 @@ public:
         }
 
         myTurn = true;
-        bool res = foo(0);
+        bool res = foo();
         
         return res;
     }
