@@ -472,6 +472,7 @@
 | [0620-not-boring-movies](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1280-students-and-examinations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
