@@ -41,6 +41,7 @@
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -141,6 +142,7 @@
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -201,6 +203,7 @@
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -532,4 +535,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
