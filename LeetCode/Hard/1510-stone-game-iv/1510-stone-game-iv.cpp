@@ -17,6 +17,8 @@ public:
         for (int x=1; x<=n; x++){
             for (int dx=1; x-sq(dx)>=0; dx++){
                 dp[x] = max(dp[x], dp[x-sq(dx)]^1);
+                if (dp[x])
+                    break;
             }
         }
 
