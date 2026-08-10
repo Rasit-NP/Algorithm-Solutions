@@ -1,4 +1,5 @@
 # include <vector>
+# include <algorithm>
 using namespace std;
 
 namespace {
@@ -8,30 +9,17 @@ int sq(int x){
 };
 
 class Solution {
-private:
-    vector<int> memo;
+public:
+    bool winnerSquareGame(int n) {
+        vector<int> dp(n+1, -1);
+        dp[0] = 0;
 
-    int play(int x){
-        if (memo[x] != -1)
-            return memo[x];
-        
-        for (int i=1; sq(i)<=x; i++){
-            if (!play(x-sq(i))){
-                memo[x] = 1;
-                return memo[x];
+        for (int x=1; x<=n; x++){
+            for (int dx=1; x-sq(dx)>=0; dx++){
+                dp[x] = max(dp[x], dp[x-sq(dx)]^1);
             }
         }
 
-        memo[x] = 0;
-        return 0;
-    }
-public:
-    bool winnerSquareGame(int n) {
-        memo.assign(n+1, -1);
-        memo[0] = 0;
-
-        int res = play(n);
-
-        return res;
+        return dp[n];
     }
 };
