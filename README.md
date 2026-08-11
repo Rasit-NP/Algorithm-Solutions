@@ -501,6 +501,7 @@
 | [0607-sales-person](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0607-sales-person/) | Easy |
 | [0620-not-boring-movies](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
