@@ -5,7 +5,7 @@ from (
     union all
     select accepter_id as id
     from RequestAccepted
-) t
+) friends
 group by id
 order by num desc
 limit 1;
