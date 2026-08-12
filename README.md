@@ -511,6 +511,7 @@
 | [1280-students-and-examinations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1484-group-sold-products-by-the-date/) | Easy |
+| [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
