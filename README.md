@@ -497,6 +497,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
