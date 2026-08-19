@@ -53,6 +53,7 @@
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -127,6 +128,7 @@
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -338,6 +340,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -446,6 +449,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
