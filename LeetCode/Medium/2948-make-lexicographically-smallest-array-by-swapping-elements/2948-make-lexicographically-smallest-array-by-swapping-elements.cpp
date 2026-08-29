@@ -9,7 +9,6 @@ private:
 
     void adapt(vector<int>& position, vector<int>& value){
         sort(position.begin(), position.end());
-        sort(value.begin(), value.end());
 
         for (int i=0; i<position.size(); i++){
             res[position[i]] = value[i];
@@ -26,8 +25,6 @@ public:
         }
 
         sort(sortedNums.begin(), sortedNums.end());
-
-        vector<vector<int>> positions, values;
 
         vector<int> position, value;
 
