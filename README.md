@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
@@ -472,6 +473,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
