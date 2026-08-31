@@ -1,10 +1,7 @@
-select name, if (travelled_distance is null, 0, travelled_distance) as travelled_distance
+select name, if(sum(distance) is null, 0, sum(distance)) as travelled_distance
 from Users u
-left join (
-    select user_id, sum(distance) as travelled_distance
-    from Rides
-    group by user_id
-) r
+left join Rides r
 on u.id = r.user_id
+group by u.id
 order by travelled_distance desc, name
 ;
