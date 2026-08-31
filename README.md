@@ -189,6 +189,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -229,6 +230,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -337,6 +339,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +380,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -623,6 +627,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
