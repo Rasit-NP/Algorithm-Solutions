@@ -78,6 +78,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -217,6 +218,7 @@
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -500,6 +502,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -677,4 +680,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
