@@ -586,6 +586,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1484-group-sold-products-by-the-date/) | Easy |
 | [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
+| [3421-find-students-who-improved](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3436-find-valid-emails/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
