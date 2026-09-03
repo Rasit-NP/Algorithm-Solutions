@@ -35,6 +35,7 @@
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
@@ -173,6 +174,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -528,6 +530,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
