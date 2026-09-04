@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -534,6 +535,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
