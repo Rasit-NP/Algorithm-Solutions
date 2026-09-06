@@ -224,6 +224,7 @@
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -261,6 +262,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
