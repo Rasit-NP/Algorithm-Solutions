@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -263,6 +264,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
