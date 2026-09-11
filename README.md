@@ -615,6 +615,7 @@
 | [1341-movie-rating](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1341-movie-rating/) | Medium |
 | [1407-top-travellers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1484-group-sold-products-by-the-date/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1587-bank-account-summary-ii/) | Easy |
 | [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 | [3421-find-students-who-improved](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3421-find-students-who-improved/) | Medium |
