@@ -12,9 +12,20 @@ struct Data{
 
     void plus(vector<int>& interval){
         val += interval[2];
-        list.emplace_back(interval[3]);
+        int idx = interval[3];
+        
+        vector<int> local;
 
-        sort(list.begin(), list.end());
+        int i=0;
+        while (i < list.size() && list[i] < idx){
+            local.emplace_back(list[i++]);
+        }
+        local.emplace_back(idx);
+        while (i < list.size()){
+            local.emplace_back(list[i++]);
+        }
+
+        list = move(local);
     }
 
     bool operator<(const Data& other) const {
