@@ -46,6 +46,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0835-image-overlap](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1140-stone-game-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
@@ -301,6 +302,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0835-image-overlap](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
