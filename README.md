@@ -141,6 +141,7 @@
 | [0012-integer-to-roman](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0146-lru-cache](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -233,6 +234,7 @@
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
+| [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -422,6 +424,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
