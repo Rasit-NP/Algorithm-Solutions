@@ -390,6 +390,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
@@ -579,6 +580,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +597,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -603,6 +606,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Database
@@ -772,4 +776,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
