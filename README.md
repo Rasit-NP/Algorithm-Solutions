@@ -570,6 +570,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -580,6 +581,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -784,4 +786,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
