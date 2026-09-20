@@ -651,6 +651,7 @@
 | [0607-sales-person](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1075-project-employees-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1084-sales-analysis-iii/) | Easy |
