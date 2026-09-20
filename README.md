@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
@@ -322,6 +323,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -366,6 +368,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
