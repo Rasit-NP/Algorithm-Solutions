@@ -197,6 +197,7 @@
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -402,6 +403,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -568,6 +570,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
