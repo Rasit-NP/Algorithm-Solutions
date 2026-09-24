@@ -689,6 +689,7 @@
 | [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1907-count-salary-categories/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3421-find-students-who-improved](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3436-find-valid-emails/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3570-find-books-with-no-available-copies/) | Easy |
