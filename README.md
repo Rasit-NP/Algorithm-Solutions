@@ -679,6 +679,7 @@
 | [1084-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1158-market-analysis-i/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1251-average-selling-price](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
