@@ -6,31 +6,28 @@ class Solution {
         Map<String, String> map = new HashMap<>();
 
         for (List<String> know : knowledge){
-            String key = know.get(0);
-            String value = know.get(1);
-
-            map.put(key, value);
+            map.put(know.get(0), know.get(1));
         }
 
         int n = s.length();
 
-        String res = new String();
+        StringBuilder res = new StringBuilder();
 
         for (int i=0; i<n; ++i){
             char c = s.charAt(i);
 
             if (c != '(')
-                res += c;
+                res.append(c);
             else {
                 ++i;
                 String key = new String();
                 while (s.charAt(i) != ')'){
                     key += s.charAt(i++);
                 }
-                res += map.getOrDefault(key, "?");
+                res.append(map.getOrDefault(key, "?"));
             }
         }
 
-        return res;
+        return res.toString();
     }
 }
