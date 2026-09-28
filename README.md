@@ -157,6 +157,7 @@
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -263,6 +264,7 @@
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -411,6 +413,7 @@
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -475,6 +478,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
@@ -555,6 +559,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -619,6 +624,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
