@@ -1,9 +1,5 @@
 select customer_id
-from Customer c
-inner join Product p
-on c.product_key = p.product_key
+from Customer
 group by customer_id
-having count(distinct c.product_key) = (
-    select count(*) from Product
-)
+having count(distinct product_key) = (select count(*) from Product)
 ;
