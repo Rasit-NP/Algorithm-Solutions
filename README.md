@@ -703,6 +703,7 @@
 | [1407-top-travellers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1587-bank-account-summary-ii/) | Easy |
+| [1683-invalid-tweets](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1907-count-salary-categories/) | Medium |
