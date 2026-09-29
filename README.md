@@ -91,6 +91,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -323,6 +324,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -348,6 +350,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -845,6 +848,7 @@
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
