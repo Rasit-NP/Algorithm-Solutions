@@ -41,6 +41,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -309,6 +310,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
@@ -345,6 +347,7 @@
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0835-image-overlap](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -551,6 +554,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -562,6 +566,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -741,6 +746,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -757,6 +763,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -861,4 +868,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
