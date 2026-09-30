@@ -699,6 +699,7 @@
 | [0626-exchange-seats](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1045-customers-who-bought-all-products/) | Medium |
+| [1068-product-sales-analysis-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
