@@ -2,11 +2,13 @@ import java.util.ArrayDeque;
 
 class Solution {
     public boolean isValid(String s) {
-        char[] list = s.toCharArray();
+        int n = s.length();
         ArrayDeque<Character> stk = new ArrayDeque<>();
 
-        for (char c : list){
-            if (stk.size() == 0){
+        for (int i=0; i<n; ++i){
+            char c = s.charAt(i);
+
+            if (stk.size() == 0 || c == '(' || c == '{' || c == '['){
                 stk.addLast(c);
             }
             else if (c == ')' && stk.peekLast() == '('){
@@ -23,6 +25,6 @@ class Solution {
             }
         }
 
-        return stk.isEmpty();
+        return stk.size() == 0;
     }
 }
