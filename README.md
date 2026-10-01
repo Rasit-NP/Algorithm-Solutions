@@ -693,6 +693,7 @@
 | [0511-game-play-analysis-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0607-sales-person](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0607-sales-person/) | Easy |
