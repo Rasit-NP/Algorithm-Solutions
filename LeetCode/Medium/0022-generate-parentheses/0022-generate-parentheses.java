@@ -1,34 +1,32 @@
 import java.util.ArrayList;
 
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        int lim = 1 << (2*n);
 
-        List<String> res = new ArrayList<>();
+    private int n;
+    private final List<String> res = new ArrayList<>();
+    private final StringBuilder sb = new StringBuilder();
 
-        for (int i=0; i<lim; ++i){
-            int now = 0;
-            StringBuilder sb = new StringBuilder();
-
-            for (int bit=0; bit<2*n; ++bit) {
-                int val = (i >> bit) & 1;
-                if (val == 1){
-                    sb.append('(');
-                    ++now;
-                }
-                else {
-                    sb.append(')');
-                    --now;
-                }
-
-                if (now < 0)
-                    break;
-            }
-            
-            if (now == 0) {
-                res.addLast(sb.toString());
-            }
+    private void backtrack(int sz, int now, int cnt){
+        if (sz == 2*n){
+            res.add(sb.toString());
+            return;
         }
+        if (cnt < n){
+            sb.append('(');
+            backtrack(sz+1, now+1, cnt+1);
+            sb.deleteCharAt(sz);
+        }
+        if (now > 0){
+            sb.append(')');
+            backtrack(sz+1, now-1, cnt);
+            sb.deleteCharAt(sz);
+        }
+    }
+
+    public List<String> generateParenthesis(int n) {
+        this.n = n;
+
+        backtrack(0, 0, 0);
 
         return res;
     }
