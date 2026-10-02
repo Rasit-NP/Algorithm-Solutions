@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -423,6 +424,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+| [0046-permutations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
