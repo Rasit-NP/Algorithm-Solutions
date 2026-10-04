@@ -267,6 +267,7 @@
 | [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -320,6 +321,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0396-rotate-function](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
@@ -459,6 +461,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
@@ -642,6 +645,7 @@
 | [0155-min-stack](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
@@ -871,6 +875,7 @@
 | [0020-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
