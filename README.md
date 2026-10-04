@@ -227,6 +227,7 @@
 | [1927-sum-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -398,6 +399,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -909,4 +911,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
