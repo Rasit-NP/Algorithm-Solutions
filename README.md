@@ -282,6 +282,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
@@ -475,6 +476,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
