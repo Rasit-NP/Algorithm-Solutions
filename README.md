@@ -196,6 +196,7 @@
 | [3731-find-missing-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
