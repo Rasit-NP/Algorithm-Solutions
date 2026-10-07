@@ -270,6 +270,7 @@
 | [0058-length-of-last-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
@@ -442,6 +443,7 @@
 | [0046-permutations](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Divide and Conquer
@@ -593,6 +595,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
