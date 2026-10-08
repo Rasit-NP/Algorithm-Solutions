@@ -740,6 +740,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1158-market-analysis-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1158-market-analysis-i/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1193-monthly-transactions-i/) | Medium |
