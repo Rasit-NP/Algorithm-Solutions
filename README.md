@@ -92,6 +92,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -550,6 +551,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -597,6 +599,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
