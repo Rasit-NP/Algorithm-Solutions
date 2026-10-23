@@ -13,33 +13,7 @@ struct Req {
     Req(int start, int length) : start(start), length(length){}
 };
 
-int N;
-int K;
-int res = 1 << 25;
-int now = 0;
-vector<vector<int>> getWaitingTimes;
-
-void backTrack(int k){
-    if (k == K){
-        res = min(res, now + getWaitingTimes[k][N]);
-        return;
-    }
-    
-    if (now >= res)
-        return;
-
-    for (int i=N-(K-k); i>0; --i){
-        now += getWaitingTimes[k][i];
-        N -= i;
-        backTrack(k+1);
-        N += i;
-        now -= getWaitingTimes[k][i];
-    }
-}
-
 int solution(int k, int n, vector<vector<int>> reqs) {
-    N = n;
-    K = k;
     vector<vector<Req>> rs(k+1, vector<Req>(0));
     
     for (vector<int>& req : reqs){
@@ -48,7 +22,7 @@ int solution(int k, int n, vector<vector<int>> reqs) {
         rs[c].emplace_back(a, b);
     }
     
-    getWaitingTimes.assign(k+1, vector<int>(n+1, 1 << 20));
+    vector<vector<int>> getWaitingTimes(k+1, vector<int>(n+1, 1 << 20));
     
     for (int _k=1; _k<=k; ++_k){
         if (rs[_k].empty()){
@@ -91,9 +65,21 @@ int solution(int k, int n, vector<vector<int>> reqs) {
         }
     }
     
-    backTrack(1);
+    vector<vector<int>> dp(k+1, vector<int>(n+1, INT_MAX));
     
-    return res;
+    for (int i=1; i<=n; ++i){
+        dp[1][i] = getWaitingTimes[1][i];
+    }
+    
+    for (int i=1; i<k; ++i){
+        for (int j=i; j<=n; ++j){
+            for (int j2=j+1; j2<=n; ++j2){
+                dp[i+1][j2] = min(dp[i+1][j2], dp[i][j] + getWaitingTimes[i+1][j2-j]);
+            }
+        }
+    }
+    
+    return dp[k][n];
 }
     
     
