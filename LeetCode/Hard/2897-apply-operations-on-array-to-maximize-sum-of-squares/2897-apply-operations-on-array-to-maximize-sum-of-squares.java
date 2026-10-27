@@ -13,7 +13,7 @@ class Solution {
             int num = nums.get(i);
 
             for (int bit=0; bit<31; ++bit){
-                bitCount[bit] += ((num & (1 << bit)) > 0 ? 1 : 0);
+                bitCount[bit] += num >> bit & 1;
             }
         }
 
@@ -28,9 +28,8 @@ class Solution {
                 }
             }
 
-            res += (val * val) % MOD;
-            if (res >= MOD)
-                res -= MOD;
+            res += val * val;
+            res %= MOD;
         }
 
         return (int)res;
