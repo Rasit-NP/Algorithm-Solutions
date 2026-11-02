@@ -853,6 +853,7 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3421-find-students-who-improved](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3436-find-valid-emails/) | Easy |
+| [3475-dna-pattern-recognition](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/3570-find-books-with-no-available-copies/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
