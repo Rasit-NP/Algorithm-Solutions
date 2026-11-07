@@ -91,6 +91,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1882-process-tasks-using-servers/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -522,6 +523,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2931-maximum-spending-after-buying-items](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/2931-maximum-spending-after-buying-items/) | Hard |
