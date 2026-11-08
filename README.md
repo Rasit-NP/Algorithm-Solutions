@@ -64,6 +64,7 @@
 | [1140-stone-game-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -425,6 +426,7 @@
 | [0835-image-overlap](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1861-rotating-the-box](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
@@ -669,6 +671,7 @@
 | [0207-course-schedule](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -686,6 +689,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -879,6 +883,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2029-stone-game-ix](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -892,6 +897,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
