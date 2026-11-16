@@ -889,6 +889,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
