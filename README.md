@@ -193,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
@@ -325,6 +326,7 @@
 | [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [0389-find-the-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
@@ -603,6 +605,7 @@
 | [0049-group-anagrams](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0389-find-the-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -742,6 +745,7 @@
 | [0089-gray-code](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
+| [0389-find-the-difference](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rasit-NP/Algorithm-Solutions/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
